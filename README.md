@@ -1,4 +1,4 @@
-# business_case_jamboree_review_loantap_intro
+# business_case_loantap_intro
 
 ## Problem Statement:
 
